@@ -1,0 +1,2 @@
+# hello
+the basic thoughts
