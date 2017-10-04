@@ -1,2 +1,2 @@
 # hello
-the basic thoughts
+the basic thoughts are presented in this document. 
